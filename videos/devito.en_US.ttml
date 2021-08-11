@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#style" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" id="p0" end="1.376s"><span tts:fontWeight="bold">Are these hard-boiled eggs?</span></p>
+      <p begin="1.376s" id="p1" end="3.211s"><span tts:fontWeight="bold">Oh, thank God.</span></p>
+      <p begin="3.211s" id="p2" end="4.462s"><span tts:fontWeight="bold">Hi, this is Danny DeVito, </span><br /><span tts:fontWeight="bold" xmlns:tts="http://www.w3.org/ns/10/ttml#style" /></p>
+      <p begin="4.462s" id="p3" end="5.714s"><span tts:fontWeight="bold">and this is how</span><br /><span tts:fontWeight="bold" xmlns:tts="http://www.w3.org/ns/10/ttml#style" /><br /><span tts:fontWeight="bold">you eat an egg, </span></p>
+      <p begin="5.714s" id="p4" end="8.133s"><span tts:fontWeight="bold">and still say your lines,</span><br /><span tts:fontWeight="bold">on Broadway —</span></p>
+      <p begin="8.174s" id="p5" end="9.968s"><span tts:fontWeight="bold">without choking.</span></p>
+      <p begin="10.01s" id="p6" end="11.636s"><span tts:fontWeight="bold">That's not true.</span></p>
+      <p begin="13.972s" id="p7" end="16.141s"><span tts:fontWeight="bold">Solomon takes a</span><br /><span tts:fontWeight="bold">hard-boiled egg</span></p>
+      <p begin="16.141s" id="p8" end="18.893s"><span tts:fontWeight="bold">out of the portfolio </span><br /><span tts:fontWeight="bold">and cracks it on his knuckles.</span></p>
+      <p begin="20.52s" id="p9" end="22.105s"><span tts:fontWeight="bold">I use my cane.</span></p>
+      <p begin="22.147s" id="p10" end="23.69s"><span tts:fontWeight="bold">It's kind of funny, I think.</span></p>
+      <p begin="25.942s" id="p11" end="27.986s"><span tts:fontWeight="bold">What's this now, lunch?</span></p>
+      <p begin="27.986s" id="p12" end="30.363s"><span tts:fontWeight="bold">You give me such an argument,</span><br /><span tts:fontWeight="bold">I got hungry.</span></p>
+      <p begin="30.363s" id="p13" end="32.991s"><span tts:fontWeight="bold">I'm not supposed to get </span><br /><span tts:fontWeight="bold">too hungry.</span></p>
+      <p begin="33.033s" id="p14" end="35.368s"><span tts:fontWeight="bold">We've had some difficult</span><br /><span tts:fontWeight="bold">nights,</span></p>
+      <p begin="35.368s" id="p15" end="36.786s"><span tts:fontWeight="bold">you know where the</span><br /><span tts:fontWeight="bold">peel doesn't come off.</span></p>
+      <p begin="36.786s" id="p16" end="38.496s"><span tts:fontWeight="bold">Some of the egg comes with it.</span></p>
+      <p begin="38.538s" id="p17" end="39.956s"><span tts:fontWeight="bold">I got a thumb movement</span><br /><span tts:fontWeight="bold" xmlns:tts="http://www.w3.org/ns/10/ttml#style" /></p>
+      <p begin="39.956s" id="p18" end="42.167s"><span tts:fontWeight="bold">and I've developed a this —</span><br /><span tts:fontWeight="bold">you know, this thing,</span></p>
+      <p begin="42.167s" id="p19" end="44.252s"><span tts:fontWeight="bold">kind of, like, "tadadit,</span><br /><span tts:fontWeight="bold">tadadit, tadadit."</span></p>
+      <p begin="44.252s" id="p20" end="45.295s"><span tts:fontWeight="bold">Aiming toward the bag,</span></p>
+      <p begin="45.295s" id="p21" end="46.421s"><span tts:fontWeight="bold">always aiming toward</span><br /><span tts:fontWeight="bold">the bag,</span></p>
+      <p begin="46.421s" id="p22" end="49.382s"><span tts:fontWeight="bold">because Solomon doesn't clean.</span></p>
+      <p begin="49.382s" id="p23" end="51.092s"><span tts:fontWeight="bold">That's the way it is.</span></p>
+      <p begin="59.059s" id="p24" end="62.187s"><span tts:fontWeight="bold">What, you want me </span><br /><span tts:fontWeight="bold">to starve to death?</span></p>
+      <p begin="62.187s" id="p25" end="65.106s"><span tts:fontWeight="bold">I try to, like, take a nice</span><br /><span tts:fontWeight="bold">hefty amount</span></p>
+      <p begin="65.106s" id="p26" end="67.15s"><span tts:fontWeight="bold">in the very beginning.</span></p>
+      <p begin="67.192s" id="p27" end="69.778s"><span tts:fontWeight="bold">It's really good to dig into</span><br /><span tts:fontWeight="bold">the yellow,</span></p>
+      <p begin="69.778s" id="p28" end="71.946s"><span tts:fontWeight="bold">because that's where</span><br /><span tts:fontWeight="bold">the kind of</span></p>
+      <p begin="71.946s" id="p29" end="74.616s"><span tts:fontWeight="bold">masticating conflict is.</span></p>
+      <p begin="74.616s" id="p30" end="76.493s"><span tts:fontWeight="bold">I'll be very quick here.</span></p>
+      <p begin="76.534s" id="p31" end="78.036s"><span tts:fontWeight="bold">I'm going to give you a good</span><br /><span tts:fontWeight="bold">price.</span></p>
+      <p begin="78.036s" id="p32" end="79.454s"><span tts:fontWeight="bold">Don't worry.</span></p>
+      <p begin="79.454s" id="p33" end="82.415s"><span tts:fontWeight="bold">I'm gonna knock you off your</span><br /><span tts:fontWeight="bold">feet with the price.</span></p>
+      <p begin="82.415s" id="p34" end="85.835s"><span tts:fontWeight="bold">It is very difficult to eat </span><br /><span tts:fontWeight="bold">just a dry, hard-boiled egg.</span></p>
+      <p begin="85.835s" id="p35" end="87.754s"><span tts:fontWeight="bold">So, you know, it really </span><br /><span tts:fontWeight="bold">motivates,</span></p>
+      <p begin="87.754s" id="p36" end="89.172s"><span tts:fontWeight="bold">if you get enough in there,</span></p>
+      <p begin="89.172s" id="p37" end="91.674s"><span tts:fontWeight="bold">it motivates the next line,</span><br /><span tts:fontWeight="bold">which is:</span></p>
+      <p begin="91.674s" id="p38" end="95.637s"><span tts:fontWeight="bold">There wouldn't be a little</span><br /><span tts:fontWeight="bold">salt, I suppose?</span></p>
+      <p begin="95.637s" id="p39" end="98.431s"><span tts:fontWeight="bold">Because you really would like</span><br /><span tts:fontWeight="bold">a little salt.</span></p>
+      <p begin="98.431s" id="p40" end="100.558s"><span tts:fontWeight="bold">You need some saliva,</span><br /><span tts:fontWeight="bold">you know.</span></p>
+      <p begin="100.558s" id="p41" end="103.853s"><span tts:fontWeight="bold">I mean, right now I'm spitting</span><br /><span tts:fontWeight="bold">all over the place.</span></p>
+      <p begin="105.23s" id="p42" end="107.732s"><span tts:fontWeight="bold">Don't chew with your mouth</span><br /><span tts:fontWeight="bold">full!</span></p>
+      <p begin="107.774s" id="p43" end="110.527s"><span tts:fontWeight="bold">Why? It's funny.</span></p>
+      <p begin="110.527s" id="p44" end="113.238s"><span tts:fontWeight="bold">I'm not going running for salt</span><br /><span tts:fontWeight="bold">now.</span></p>
+      <p begin="113.279s" id="p45" end="114.531s"><span tts:fontWeight="bold">Don't be blue.</span></p>
+      <p begin="114.531s" id="p46" end="117.033s"><span tts:fontWeight="bold">I'm going to knock you off your</span><br /><span tts:fontWeight="bold">feet with the price.</span></p>
+      <p begin="117.033s" id="p47" end="118.409s"><span tts:fontWeight="bold">You'll see.</span></p>
+      <p begin="119.619s" id="p48" end="120.87s"><span tts:fontWeight="bold">It's fun every night.</span></p>
+      <p begin="120.87s" id="p49" end="122.122s"><span tts:fontWeight="bold">It's different every night. </span></p>
+      <p begin="122.122s" id="p50" end="123.414s"><span tts:fontWeight="bold">When you're up there,</span><br /><span tts:fontWeight="bold">it's like skiing.</span></p>
+      <p begin="123.414s" id="p51" end="124.874s"><span tts:fontWeight="bold">It's like you're going</span><br /><span tts:fontWeight="bold">down the mountain.</span></p>
+      <p begin="124.874s" id="p52" end="126.876s"><span tts:fontWeight="bold">Yeah there's rocks and things,</span><br /><span tts:fontWeight="bold">and things happen —</span></p>
+      <p begin="126.876s" id="p53" end="128.253s"><span tts:fontWeight="bold">all kinds of stuff.</span></p>
+      <p begin="128.294s" id="p54" end="129.504s"><span tts:fontWeight="bold">The audience gets into it</span></p>
+      <p begin="129.504s" id="p55" end="131.339s"><span tts:fontWeight="bold">and we do stretch it out</span><br /><span tts:fontWeight="bold">a little bit.</span></p>
+      <p begin="131.339s" id="p56" end="133.091s"><span tts:fontWeight="bold">It's very difficult for me</span><br /><span tts:fontWeight="bold">to go on stage</span></p>
+      <p begin="133.091s" id="p57" end="136.094s"><span tts:fontWeight="bold">and have — just eat the egg</span><br /><span tts:fontWeight="bold">and, like, let it go.</span></p>
+      <p begin="136.094s" id="p58" end="138.346s"><span tts:fontWeight="bold">Not to stop the play, not to</span><br /><span tts:fontWeight="bold">stop the play,</span></p>
+      <p begin="138.346s" id="p59" end="140.014s"><span tts:fontWeight="bold">because the play</span><br /><span tts:fontWeight="bold">is like the thing, so —</span></p>
+      <p begin="140.014s" id="p60" end="141.724s"><span tts:fontWeight="bold">But the idea is that</span><br /><span tts:fontWeight="bold">you gotta —</span></p>
+      <p begin="141.724s" id="p61" end="143.268s"><span tts:fontWeight="bold">you have a little fun</span><br /><span tts:fontWeight="bold">in the middle.</span></p>
+    </div>
+  </body>
+</tt>
