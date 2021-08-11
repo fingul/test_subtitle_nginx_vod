@@ -6,7 +6,7 @@
 
 # RUN
 
-> docker run -p 3030:80 -v $PWD/videos:/opt/static/videos -v $PWD/nginx.conf:/usr/local/nginx/conf/nginx.conf nginx-vod-module
+> docker run -p 3030:80 -v $PWD/videos:/opt/static/videos -v $PWD/nginx.conf:/usr/local/nginx/conf/nginx.conf test-nginx-vod-module
 
 # HLS (WORKING)
 - MASTER : http://localhost:3030/hls/devito,360p.mp4,.en_US.vtt,.urlset/master.m3u8
