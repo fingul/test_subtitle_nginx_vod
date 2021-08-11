@@ -22,8 +22,8 @@
 - MANIFEST : http://localhost:3030/dash/devito,360p.mp4,.en_US.vtt,.urlset/manifest.mpd
 - SEGMENT : http://localhost:3030/dash/devito,360p.mp4,.en_US.vtt,.urlset/sub-f2.vtt
 
-# DASH SUB - vod_dash_subtitle_format smpte-tt (NOT WORKING)
+# DASH SUB - vod_dash_subtitle_format smpte-tt (WORKING)
 
 - MANIFEST : http://localhost:3030/dashs/devito,360p.mp4,.en_US.vtt,.urlset/manifest.mpd
-- SEGMENT : http://localhost:3030/dashs/devito,360p.mp4,.en_US.vtt,.urlset/init-f2.
+
 

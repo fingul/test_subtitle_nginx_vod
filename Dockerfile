@@ -8,8 +8,9 @@ RUN mkdir nginx nginx-vod-module
 # ARG NGINX_VERSION=1.16.1
 ARG NGINX_VERSION=1.20.1
 #ARG VOD_MODULE_VERSION=990ba7fcffe5a4da1248ad2c5831febc7031781e
-ARG VOD_MODULE_VERSION=master
-
+#ARG VOD_MODULE_VERSION=master
+ARG VOD_MODULE_VERSION=8e7268a8239eb953c97a91b4668e79e077edd51f
+#https://github.com/kaltura/nginx-vod-module/commit/8e7268a8239eb953c97a91b4668e79e077edd51f
 RUN curl -sL https://nginx.org/download/nginx-${NGINX_VERSION}.tar.gz | tar -C /nginx --strip 1 -xz
 RUN curl -sL https://github.com/kaltura/nginx-vod-module/archive/${VOD_MODULE_VERSION}.tar.gz | tar -C /nginx-vod-module --strip 1 -xz
 
